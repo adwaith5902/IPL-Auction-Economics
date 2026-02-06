@@ -28,27 +28,21 @@ The goal was to treat the IPL auction as a market, not an event.
 🧠 Key Business Questions Answered
 1. Market-Level Dynamics
 
-How is total auction spend distributed across price bands?
-
-Is the IPL auction market top-heavy or broad-based?
-
-Are record-breaking prices becoming more frequent?
+- How is total auction spend distributed across price bands?
+- Is the IPL auction market top-heavy or broad-based?
+- Are record-breaking prices becoming more frequent?
 
 2. Role Demand & Price Trends
 
-Which player roles attract the highest spending?
-
-How does demand explain price inflation?
-
-Do overseas players consistently command a premium?
+- Which player roles attract the highest spending?
+- How does demand explain price inflation?
+- Do overseas players consistently command a premium?
 
 3. Team Strategy & Risk Appetite
 
-Which teams spend aggressively vs conservatively?
-
-How do teams balance squad size vs star investment?
-
-Which teams show higher trust in uncapped players?
+- Which teams spend aggressively vs conservatively?
+- How do teams balance squad size vs star investment?
+- Which teams show higher trust in uncapped players?
 
 📊 Dashboards Overview
 Dashboard 1: Market Dynamics & Competitive Intensity
@@ -121,13 +115,13 @@ The dataset is included in the repository under the data/ directory.
 
 🛠️ Tools & Tech Stack
 
-*Python
-*Pandas
-*NumPy
-*Tableau
-*Excel
-*SQL
-*Git
+|Python
+|Pandas
+|NumPy
+|Tableau
+|Excel
+|SQL
+|Git
 
 
 💡 Key Takeaways & Insights
